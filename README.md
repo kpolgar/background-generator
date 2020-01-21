@@ -1,4 +1,4 @@
-# Background-Benerator
+# Background-Generator
 
 Generate a gradient background by picking two colors.
 
