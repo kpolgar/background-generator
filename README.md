@@ -1,6 +1,6 @@
 # Background-Generator
 
-Generate a gradient background by picking two colors.
+Generate a gradient background by picking two colors and leveraging HTML and CSS.
 
 Check it out below:
 
